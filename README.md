@@ -22,7 +22,7 @@
 - 📝 I regularly write articles on [**Medium**](https://medium.com/@itsusman.saeed)
 
 - 📫 How to reach me [**itsusman.saeed@gmail.com**](mailto:itsusman.saeed@gmail.com) 
-- Ask me about **iOS, React Native Development**
+- 👨🏻‍💻 Ask me about **iOS, React Native Development**
 
 
 
