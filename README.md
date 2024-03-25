@@ -19,10 +19,11 @@
 <br>
 <br>
 
-- 📝 I regularly write articles on [Medium](https://medium.com/@itsusman.saeed)
+- 📝 I regularly write articles on [**Medium**](https://medium.com/@itsusman.saeed)
 
-- 📫 How to reach me **itsusman.saeed@gmail.com**
+- 📫 How to reach me [**itsusman.saeed@gmail.com**](mailto:itsusman.saeed@gmail.com) 
 - Ask me about **iOS, React Native Development**
+
 
 
 <h3 align="left">Connect with me:</h3>
