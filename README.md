@@ -13,7 +13,7 @@
 ---
 
 <a href="https://www.standwithpalestine.au">
-	<img src="https://svg-navy.vercel.app/genocide" style="border: 0.5px solid rgba(0, 0, 0, 0.5);">
+	<img src="https://svg-navy.vercel.app/genocide" style="border-radius: 5px;">
 </a>
 <br>
 
