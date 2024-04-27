@@ -3,53 +3,18 @@
 <h3 align="center">An enthusiastic mobile application developer with 9+ years of expertise.</h3>
 
 <br>
-<br>
 
 ---
 
-<br>
-<br>
 <a href="https://vshymanskyy.github.io/StandWithUkraine">
 	<img src="https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg">
 </a>
-<br>
 
-<div>
+---
+
 <a href="https://www.standwithpalestine.au">
-  <!-- <svg viewBox="0 0 800 264" xmlns="http://www.w3.org/2000/svg"> -->
-  <svg viewBox="0 0 987 264" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
-    <g id="g558">
-      <path id="rect551" d="M0 0 L987 0 987 264 0 264 Z" fill="#000000" fill-opacity="1" stroke="none"/>
-      <path id="rect552" d="M0 0 L987 0 987 70.5 0 70.5 Z" fill="#ffffff" fill-opacity="1" stroke="none"/>
-      <path id="rect553" d="M0 194 L987 194 987 264 0 264 Z" fill="#009900" fill-opacity="1" stroke="none"/>
-      <path id="path554" d="M0 264 L177.07 132 0 0 Z" fill="#ff0000" fill-opacity="1" stroke="none"/>
-      
-    </g>
-    <defs>
-      <text id="string" transform="matrix(1.0 0.0 0.0 1.0 200.0 86.0)">
-        <tspan id="textContent" font-family="Helvetica, Helvetica" y="15.0" font-size="20" text-decoration="none" x="1.0">It's been 200 days since Israel began bombing Palestine, resulting in the </tspan>
-        <tspan font-family="Helvetica, Helvetica" y="39.0" font-size="20" text-decoration="none" x="1.0">deaths of tens of thousands of civilians and displacing millions more. It's a </tspan>
-        <tspan font-family="Helvetica, Helvetica" y="63.0" font-size="20" text-decoration="none" x="1.0">humanitarian crisis. Please help us defend freedom, democracy, and </tspan>
-        <tspan font-family="Helvetica, Helvetica" y="87.0" font-size="20" text-decoration="none" x="1.0">Palestine's right to exist.</tspan>
-      </text>
-    </defs>
-    <use id="Its-been-200-days-since-Israel-began-bombing-Palestine,-resulting-in-the-deaths-of-tens-of-thousands-of-civilians-and-displacing-millions-more.-Its-a-humanitarian-crisis.-Please-help-us-defend-freedom,-democracy,-and-Palestines-right-to-exist." xlink:href="#string" fill="#ffffff" fill-opacity="1" stroke="none"/>
-    <defs>
-      <text id="string-1" transform="matrix(1.0 0.0 0.0 1.0 378.2265625 222.0)" font-family="Helvetica-Bold, Helvetica" y="17.0" font-size="22" text-decoration="none" x="13.529296875">Help Palestine Now    </text>
-    </defs>
-    <use id="Help-Palestine-Now----" xlink:href="#string-1" fill="#ffffff" fill-opacity="1" stroke="none"/>
-  </svg>
+	<img src="https://svg-navy.vercel.app/genocide" style="border: 0.1px solid rgba(0, 0, 0, 0.1);">
 </a>
-<script>
-    const startDate = new Date('2023-10-07');
-    const currentDate = new Date();
-    const daysDiff = Math.floor((currentDate - startDate) / (1000 * 60 * 60 * 24));
-    const svgTextElement = document.getElementById('textContent');
-    svgTextElement.textContent = `It's been ${daysDiff} days since Israel began bombing Palestine, resulting in the`;
-    const svgContainer = document.getElementById('svgContainer');
-    svgContainer.setAttribute('viewBox', `0 0 ${svgTextElement.getBBox().width + 50} 264`);
-  </script>
-</div>
 <br>
 
 ---
