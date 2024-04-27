@@ -39,6 +39,7 @@
 - 📝 I regularly write articles on [**Medium**](https://medium.com/@itsusman.saeed)
 
 - 📫 How to reach me [**itsusman.saeed@gmail.com**](mailto:itsusman.saeed@gmail.com) 
+- 🌐 Where to see my previous work [**Portfolio**](https://m-usmansaeed.github.io)
 - 👨🏻‍💻 Ask me about **iOS, React Native Development**
 
 
