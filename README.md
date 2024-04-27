@@ -1,3 +1,4 @@
+<body>
 <h1 align="center">Hello there, I'm Usman Saeed.</h1>
 <h3 align="center">An enthusiastic mobile application developer with 9+ years of expertise.</h3>
 
@@ -48,7 +49,7 @@
     const svgContainer = document.getElementById('svgContainer');
     svgContainer.setAttribute('viewBox', `0 0 ${svgTextElement.getBBox().width + 50} 264`);
   </script>
-</div>  
+</div>
 <br>
 
 ---
@@ -150,3 +151,4 @@
 <img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" alt="trello" width="40" height="40"/> 
 </a> 
 </p>
+</body>
