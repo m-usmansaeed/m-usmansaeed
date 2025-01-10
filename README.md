@@ -6,13 +6,7 @@
 
 ---
 
-<a href="https://vshymanskyy.github.io/StandWithUkraine">
-	<img src="https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg">
-</a>
-
----
-
-<a href="https://www.standwithpalestine.au">
+<a href="https://alkhidmat.org/appeal/emergency-appeal-palestine-save-lives-in-gaza-today">
 	<img src="https://svg-navy.vercel.app/genocide" style="border-radius: 5px;">
 </a>
 <br>
