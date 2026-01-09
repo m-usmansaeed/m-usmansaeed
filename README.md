@@ -6,7 +6,7 @@
 
 ---
 
-<a href="https://alkhidmat.org/appeal/emergency-appeal-palestine-save-lives-in-gaza-today">
+<a href="https://www.ummafoundation.org/campaigns/warmth-in-the-cold-coat-distribution?form=FUNFFKDMKHQ&creative=744446802135&device=c&gad_campaignid=22416533951&gad_source=2&utm_campaign=22416533951&utm_content=176355842103&utm_medium=cpc&utm_source=google&wbraid=ClkKCAiAyP3KBhAkEkkARocBff6iPh9LfZaUsZV8LhDfTXUB0rqeamsUIONFi9Nof3M6UqBwgr1WjsQ0e-sFGNfP1H90m1rswQ7IR4LXwABYQlK25bywGgKJWA">
 	<img src="https://svg-navy.vercel.app/genocide" style="border-radius: 5px;">
 </a>
 <br>
